@@ -2,7 +2,7 @@
   "name": "mini-blog",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Lchaeyeon02/Mini-Blog/blob/main/src/index.css",
+  "homepage": "https://github.com/Lchaeyeon02/blog/blob/main/src/index.css",
   "type": "module",
   "scripts": {
     "dev": "vite",
